@@ -11,4 +11,4 @@ Welcome to the Currency Converter project! This Python-based tool enables seamle
 ## How to Use
 1. **Installation**: Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Noreen Aslam/currency-converter.git
+   git clone https://github.com/Noreen_Aslam/currency-converter.git
